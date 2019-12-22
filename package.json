@@ -2,9 +2,9 @@
   "name": "drone-status",
   "displayName": "Drone Status",
   "description": "Drone Status is a VSCode extension to check Drone build status.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "oostrap",
-  "license": "https://github.com/Pietjan/drone-status/blob/master/LICENSE",
+  "license": "MIT",
   "icon": "icon.png",
   "homepage": "https://github.com/Pietjan/drone-status",
   "repository": {
